@@ -1,9 +1,10 @@
 # FreeWay
 
-FreeWay é um emocionante jogo inspirado no clássico Freeway do Atari 2600. No jogo, sua missão é guiar uma simpática vaquinha através da rua para acumular pontos. Semelhante ao jogo original, a velocidade dos carros aumenta a cada ponto conquistado, proporcionando um ambiente de jogo cada vez mais desafiador. Divirta-se enfrentando a crescente intensidade e teste suas habilidades enquanto atravessa a rua com a vaquinha!
+FreeWay is an exhilarating game inspired by the classic Freeway from the Atari 2600. In the game, your mission is to guide a friendly little cow across the street to rack up points. Similar to the original game, the speed of the cars increases with each point earned, providing an increasingly challenging gaming environment. Enjoy yourself as you face the growing intensity and test your skills while crossing the street with the cow!
 
-## Interface do Jogo
-![Captura de Tela do Jogo](https://github.com/Ghustavo516/FreeWay/assets/41215700/671debe7-c8f2-4750-b295-5aaa8eecf467)
+## Game Interface
+![Game Screenshot](https://github.com/Ghustavo516/FreeWay/assets/41215700/671debe7-c8f2-4750-b295-5aaa8eecf467)
 
-O jogo está disponível [neste link](https://ghustavo516.github.io/FreeWay/). Aventure-se e divirta-se! 🎮
+The game is available [at this link](https://ghustavo516.github.io/FreeWay/). Venture forth and have fun! 🎮
+
 
